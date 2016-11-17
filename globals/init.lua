@@ -1,0 +1,1 @@
+cjson = require("cjson") -- cjson is a global variable
